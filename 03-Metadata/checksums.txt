@@ -1,0 +1,15 @@
+Energon Brand Kit
+
+SHA256 Checksums
+
+(To be generated before public release.)
+
+Energon-Logo-Master.png
+Energon-Logo.svg
+Energon-Logo-512.png
+Energon-Logo-192.png
+Energon-Logo-96.png
+Energon-Apple-Touch.png
+Energon-Favicon.ico
+
+© Energon Protocol
