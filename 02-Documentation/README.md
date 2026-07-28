@@ -1,84 +1,108 @@
 # ENERGON
 
-> One Wallet • One Cube • One Guardian
+> **One Wallet • One Cube • One Guardian**
 
-Energon is an immutable protocol that enables a community to form around permanent, verifiable rules rather than changing governance.
+Energon is an immutable blockchain protocol that enables a community to form around permanent, verifiable rules rather than changing governance.
 
-Energon was created from years of observing blockchain systems and asking what should remain permanent. The result is a protocol where identity, time, emissions, and progression are governed by immutable on-chain rules rather than human discretion. The community forms around those rules instead of changing them.
+Energon was created from years of observing blockchain systems and asking what should remain permanent. The result is a protocol where identity, protocol time, emissions, and system progression are governed by immutable smart contracts rather than human discretion. The community forms around those rules instead of changing them.
 
 ---
 
 # Official Information
 
-**Protocol Name**
+**Protocol Name**  
 Energon
 
-**Token Name**
+**Token Name**  
 Energon
 
-**Ticker**
+**Ticker**  
 EON
 
-**Standard**
+**Standard**  
 ERC-20
 
-**Network**
+**Network**  
 Flare Mainnet
 
-**Chain ID**
+**Chain ID**  
 14
 
-**Decimals**
+**Decimals**  
 18
 
-**Maximum Supply**
+**Maximum Supply**  
 30,000,000 EON
 
-**Contract**
+**Token Contract**
 
+```
 0x9458Cbb2e7DafFE6b3cf4d6F2AC75f2d2e0F7d79
+```
+
+**EnergonCube Contract**
+
+```
+0x30e1076bDf2B123B54486C2721125388af2d2061
+```
 
 ---
 
 # Official Resources
 
-Website
+## Main Website
 
-https://energon-site.vercel.app
+https://energon.app
 
-Mint dApp
+## Guardian Chronicle
 
-https://energon-dapp.vercel.app
+https://guardian.energon.app
 
-GitHub
+## Wallet Setup
+
+https://wallet.energon.app
+
+## Documentation
+
+https://docs.energon.app
+
+## Whitepaper
+
+https://docs.energon.app/docs/energon-whitepaper.pdf
+
+## Energon Management Protocol (EMP)
+
+https://docs.energon.app/docs/energon-emp.pdf
+
+## Why One Cube
+
+https://why.energon.app
+
+## Mint
+
+https://mint.energon.app/mint
+
+## Dashboard
+
+https://dashboard.energon.app
+
+## Observer
+
+https://observer.energon.app
+
+## GitHub
 
 https://github.com/EnergonGrid
 
-Whitepaper
-
-https://energon-site.vercel.app/docs/energon-whitepaper.pdf
-
-Protocol Specification
-
-https://energon-site.vercel.app/docs/energon-protocol.pdf
-
-EMP Documentation
-
-https://energon-site.vercel.app/docs/energon-emp.pdf
-
-Guardian Chronicle
-
-https://energon-site.vercel.app/guardian.html
-
-X (Twitter)
+## X (Twitter)
 
 https://x.com/EnergonProtocol
 
-Discord
+## Discord
 
 https://discord.gg/9fP8sr55Zw
 
-Email
+## Email
 
 EnergonGrid@gmail.com
 
@@ -88,21 +112,24 @@ EnergonGrid@gmail.com
 
 Energon consists of three immutable protocol components:
 
-• Energon Token (EON)
-  - ERC-20 utility token
-  - Fixed maximum supply of 30,000,000
-  - Deterministic emission schedule
-  - Genesis-anchored burn schedule
+### Energon Token (EON)
 
-• EnergonCube
-  - ERC-721 identity primitive
-  - Maximum supply of 1,000,000
-  - One Wallet • One Cube • One Guardian identity model
+- ERC-20 utility token
+- Fixed maximum supply of **30,000,000 EON**
+- Deterministic emission schedule
+- Genesis-anchored burn schedule
 
-• EnergonController
-  - Computes Energon Height
-  - Enforces protocol progression
-  - Executes deterministic protocol rules
+### EnergonCube
+
+- ERC-721 identity primitive
+- Fixed maximum supply of **1,000,000 EnergonCubes**
+- One Wallet • One Cube • One Guardian identity model
+
+### EnergonController
+
+- Computes Energon Height
+- Enforces protocol progression
+- Executes deterministic protocol rules
 
 ---
 
@@ -112,14 +139,18 @@ Energon is designed around permanence.
 
 The protocol intentionally avoids:
 
-- Yield incentives
-- Farming mechanics
+- Hidden administration
+- Discretionary governance
+- Off-chain control
 - Off-chain schedulers
 - Hidden automation
-- Discretionary governance
 - Inflationary token models
+- Yield incentives
+- Farming mechanics
 
-Protocol behavior is derived entirely from observable on-chain state.
+Protocol behavior is derived entirely from immutable smart contracts and observable on-chain state.
+
+If documentation and deployed contracts ever differ, the deployed contracts are the source of truth.
 
 ---
 
@@ -135,6 +166,22 @@ The official logos contained within this Brand Kit may be used by:
 - Community members
 
 The logo may not be modified, distorted, recolored, or combined with other graphics in a way that implies official endorsement.
+
+---
+
+# Official Motto
+
+**One Wallet • One Cube • One Guardian**
+
+---
+
+# Status
+
+ENERGON is live on Flare Mainnet.
+
+Observation precedes action.  
+Law precedes narrative.  
+Protocol state precedes interface.
 
 ---
 
