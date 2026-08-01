@@ -104,7 +104,7 @@ https://why.energon.app
 
 ### Mint
 
-https://mint.energon.app/mint
+https://mint.energon.app
 
 ### Dashboard
 

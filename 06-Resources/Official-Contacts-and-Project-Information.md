@@ -52,6 +52,9 @@ https://x.com/EnergonProtocol
 
 https://discord.gg/9fP8sr55Zw
 
+## Email
+
+EnergonGrid@gmail.com
 ---
 
 ## Network

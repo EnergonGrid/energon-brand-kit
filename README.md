@@ -2,7 +2,9 @@
 
 Official brand assets for the Energon Protocol.
 
-This repository contains the canonical logos, documentation, metadata, screenshots, and press resources for developers, wallets, exchanges, media outlets, explorers, and community members.
+This repository contains the canonical logos, documentation, metadata, screenshots, and press resources for developers, wallet providers, exchanges, block explorers, media outlets, and community members.
+
+These assets represent the official Energon identity and should be used whenever referencing or integrating the protocol.
 
 ---
 
@@ -10,7 +12,9 @@ This repository contains the canonical logos, documentation, metadata, screensho
 
 ### 01 — Logos
 
-Official Energon logos and icons.
+Official Energon logos and application icons.
+
+Includes:
 
 - SVG
 - PNG
@@ -22,7 +26,9 @@ Official Energon logos and icons.
 
 ### 02 — Documentation
 
-Protocol documentation including:
+Official protocol documentation.
+
+Includes:
 
 - Brand Guidelines
 - Official Contacts
@@ -32,13 +38,13 @@ Protocol documentation including:
 
 ### 03 — Metadata
 
-Official metadata for wallets and explorers.
+Official metadata for wallets, block explorers, and protocol integrations.
 
 Includes:
 
 - token.json
-- contract information
-- project metadata
+- Contract Information
+- Project Metadata
 
 ---
 
@@ -46,7 +52,7 @@ Includes:
 
 Official protocol documents.
 
-- Whitepaper
+- ENERGON Whitepaper
 - Energon Management Protocol (EMP)
 - Protocol Specification
 
@@ -66,49 +72,49 @@ Supporting media and reference material.
 
 ### 07 — Press
 
-Press resources for publications, creators, and media outlets.
+Press resources for journalists, creators, exchanges, publications, and media outlets.
 
 ---
 
 ## Official Links
 
-Website
+### Website
 
 https://energon.app
 
-Documentation
+### Documentation
 
 https://docs.energon.app
 
-Acquire EnergonCube
+### Acquire EnergonCube
 
 https://mint.energon.app
 
-Guardian Chronicle
+### Guardian Chronicle
 
 https://guardian.energon.app
 
-Wallet Setup
+### Wallet Setup
 
 https://wallet.energon.app
 
-Observer
+### Observer
 
 https://observer.energon.app
 
-Dashboard
+### Dashboard
 
 https://dashboard.energon.app
 
-GitHub
+### GitHub
 
 https://github.com/EnergonGrid
 
-X
+### X
 
 https://x.com/EnergonProtocol
 
-Discord
+### Discord
 
 https://discord.gg/9fP8sr55Zw
 
@@ -116,11 +122,35 @@ https://discord.gg/9fP8sr55Zw
 
 ## Network
 
+**Network**
 Flare Mainnet
 
-Chain ID: 14
+**Chain ID**
+14
 
-Token: EON
+**Token Name**
+Energon
+
+**Token Symbol**
+EON
+
+**Standard**
+ERC-20
+
+**Maximum Supply**
+30,000,000 EON
+
+**Official Token Contract**
+
+0x9458Cbb2e7DafFE6b3cf4d6F2AC75f2d2e0F7d79
+
+---
+
+## Purpose
+
+The Energon Brand Kit exists to provide a single canonical source for official branding and protocol assets.
+
+It helps ensure consistent representation of Energon across wallets, exchanges, block explorers, documentation, media publications, and community-created content.
 
 ---
 
